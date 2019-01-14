@@ -6,3 +6,4 @@ E anche ancora qualcos'altro... che stavolta va bene?
 Mi sa che nemmeno stavolta funziona.
 Ancora.
 Di nuovo.
+Modifica fatta su master dopo che è stato fatto ramo1.
